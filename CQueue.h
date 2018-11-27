@@ -1,5 +1,5 @@
 
-#if _MSC_VER > 1001
+#if _MSC_VER > 1002
 #pragma once
 #endif // _MSC_VER > 1000
 
